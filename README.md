@@ -1,16 +1,19 @@
-### Hi there 👋
+# tealingg
+👋 welcome to my profile!
 
-<!--
-**tealingg/tealingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## what i dabble in
+- i develop hacks/extensions to games
+- custom projects
 
-Here are some ideas to get you started:
+## languages i'm fluent in
+- [x] c/c++
+- [x] c#
+- [x] javascript/typescript
+- [x] lua
+- [ ] rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## current projects in development
+- gdhaxx (a geometry dash extension toolkit)
+
+## i'm available for hire!
+if you're looking to hire somebody for anything (no project is too small!) please contact me on discord (@tealingg).
