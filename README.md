@@ -13,7 +13,8 @@
 - [ ] rust
 
 ## current projects in development
-- gdhaxx (a geometry dash extension toolkit)
+- a mario kart wii mod
+- gdhaxx (a geometry dash extension toolkit) - currently not being worked on
 
 ## i'm available for hire!
 if you're looking to hire somebody for anything (no project is too small!) please contact me on discord (@tealingg).
