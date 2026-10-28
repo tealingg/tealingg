@@ -1,20 +1,12 @@
 # tealingg
-👋 welcome to my profile!
+👋 Welcome to my profile!
 
-## what i dabble in
-- i develop hacks/extensions to games
-- custom projects
+## What i'm up to
+I'm currently pursuing a BSc in Computer Science. This includes an 8-week programming project as part of one of my first year modules. I've also got some public projects available on my GitHub page that you're free to check out.
 
-## languages i'm fluent in
-- [x] c/c++
-- [x] c#
-- [x] javascript/typescript
-- [x] lua
-- [ ] rust
-
-## current projects in development
-- a mario kart wii mod
-- gdhaxx (a geometry dash extension toolkit) - currently not being worked on
-
-## i'm available for hire!
-if you're looking to hire somebody for anything (no project is too small!) please contact me on discord (@tealingg).
+## Languages I'm fluent in
+- [x] C/C++
+- [x] C#
+- [x] JavaScript/TypeScript
+- [x] Lua
+- [ ] Java
